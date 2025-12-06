@@ -49,3 +49,4 @@ public class Cita
 
     [NotMapped]
     public string Estado { get; set; }
+}
